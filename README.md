@@ -104,9 +104,11 @@ Add level mechanics to the game. Each time a player earns 600 points, the level 
 ## Chapter III
 ## Realization
 
-![start_screen](src/images/tetris_play_1_start_screen.png) ![new_game](src/images/tetris_play_2_new_game.png) ![rotate_brick](src/images/tetris_play_3_rotate_brick.png)
+![start_screen](src/images/tetris_play_1_start_screen.png) ![new_game](src/images/tetris_play_2_new_game.png)  
 
-![level_1](src/images/tetris_play_4_level_1_score_200.png) ![level_2](src/images/tetris_play_5_level_2_score_800.png) ![end_win](src/images/tetris_play_6_end_screen_with_breaking_max_score.png)
+![rotate_brick](src/images/tetris_play_3_rotate_brick.png) ![level_1](src/images/tetris_play_4_level_1_score_200.png)  
+
+![level_2](src/images/tetris_play_5_level_2_score_800.png) ![end_win](src/images/tetris_play_6_end_screen_with_breaking_max_score.png)
 
 ![end_lose](src/images/tetris_play_7_end_screen_with_loosing.png)
 
