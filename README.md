@@ -26,7 +26,7 @@ FSM can be used to describe algorithms for solving specific problems, as well as
 
 Tetris FSM has the following states:  
 
-![alt text](src/images/tetris_FSM.png)
+![tetris_fsm](src/images/tetris_FSM.png)
 
 - Start is the state in which the game waits for the player to press the ready button.
 - Spawn is the state the game enters when you create another block and select the next block to spawn.
@@ -77,7 +77,7 @@ Implementation of the BrickGame v1.0 aka Tetris program:
 
 Pieces used:  
 
-![alt text](tetris-pieces.png)
+![tetris_pieces](src/images/tetris-pieces.png)
 
 ### Part 2. Bonus. Scoring and game record
 
