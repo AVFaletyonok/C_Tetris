@@ -112,7 +112,7 @@ Add level mechanics to the game. Each time a player earns 600 points, the level 
 
 ![end_lose](src/images/tetris_play_7_end_screen_with_loosing.png)
 
-tests - 90,9% coverege:
+tests - 90,9% coverage:
 
 ![tests](src/images/tetris_tests.png)
 
